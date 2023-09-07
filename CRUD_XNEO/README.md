@@ -10,18 +10,18 @@ Funcionalidades Principais
 
 ## Funcionalidades Principais
 
-  **Cadastro e Autenticação de Usuários**: Os usuários podem se cadastrar fornecendo um email e senha. Após o cadastro, podem fazer login no sistema para acessar suas tarefas pessoais.
+**Cadastro e Autenticação de Usuários**: Os usuários podem se cadastrar fornecendo um email e senha. Após o cadastro, podem fazer login no sistema para acessar suas tarefas pessoais.
 
-  **Gerenciamento de Tarefas**: Os usuários podem adicionar, visualizar, editar e excluir tarefas e compromissos em um painel intuitivo.
+**Gerenciamento de Tarefas**: Os usuários podem adicionar, visualizar, editar e excluir tarefas e compromissos em um painel intuitivo.
 
-  **Detalhes das Tarefas**: Cada tarefa pode incluir as seguintes informações:
-        Nome da tarefa
-        Descrição detalhada
-        Data de início e data de término
+**Detalhes das Tarefas**: Cada tarefa pode incluir as seguintes informações:
+    Nome da tarefa
+    Descrição detalhada
+    Data de início e data de término
 
-  **Edição e Exclusão de Tarefas**: Os usuários têm a capacidade de editar informações de tarefas existentes ou remover tarefas quando necessário.
+**Edição e Exclusão de Tarefas**: Os usuários têm a capacidade de editar informações de tarefas existentes ou remover tarefas quando necessário.
 
-  **Armazenamento em Banco de Dados**: Todas as informações de tarefas e detalhes de usuário são armazenadas em um banco de dados, garantindo a persistência dos dados.
+**Armazenamento em Banco de Dados**: Todas as informações de tarefas e detalhes de usuário são armazenadas em um banco de dados, garantindo a persistência dos dados.
 
 ## Interface de Usuário Intuitiva
 
