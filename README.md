@@ -1,6 +1,7 @@
 ## Tecnologias e Habilidades Principais
 
-# JavaScript, Python e PHP#: Utilizo essas linguagens de programação para desenvolver aplicativos e sistemas web, aproveitando suas capacidades versáteis para atender às necessidades dos projetos.
+# JavaScript, Python e PHP: 
+Utilizo essas linguagens de programação para desenvolver aplicativos e sistemas web, aproveitando suas capacidades versáteis para atender às necessidades dos projetos.
 
 # Engenharia de Dados: 
 Tenho experiência em projetos de engenharia de dados, incluindo a coleta, transformação e análise de dados de maneira eficiente e escalável.
