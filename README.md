@@ -1,7 +1,5 @@
 # Tecnologias e Habilidades Principais
 
-<link rel="icon" type="image/x-icon" href="[/images/favicon.ico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png)">
-
 ### Python, SQL, JavaScript e NodeJS: 
 Utilizo essas linguagens de programação para desenvolver aplicativos, sistemas web e APIs, aproveitando suas capacidades versáteis para atender às necessidades dos projetos.
 
