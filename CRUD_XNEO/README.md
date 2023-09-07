@@ -1,7 +1,6 @@
 # Project Crud-PHP
 
 <div>
-  <a href="https://github.com/AlanDouglasSS/Projetos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDouglasSS&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDouglasSS&show_icons=true&theme=radical"/>
+  <a href="https://github.com/Projects_Back-End/CRUD_XNEO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos22-2&layout=compact"/>  
 </div>
