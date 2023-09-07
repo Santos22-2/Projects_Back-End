@@ -29,7 +29,7 @@ O sistema apresenta uma interface de usuário amigável, com duas opções visí
 
 ==================================================================================================================
 
-🔧### ⚙Configuração do Ambiente para Executar o Projeto
+### ⚙Configuração do Ambiente para Executar o Projeto
 
 Para executar este projeto, você precisará configurar corretamente o ambiente, o que inclui a instalação do servidor Apache (como o Wamp Server) e a configuração do VirtualHost. Siga os passos abaixo:
 
