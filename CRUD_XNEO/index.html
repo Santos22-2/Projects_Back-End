@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="assets/style/style.css">
+</head>
+
+<script src="assets/javascript/jquery-3.7.0.min.js"></script>
+
+<style>
+    
+
+
+</style>
+<body>
+
+    <section id="corpo">
+
+        <header id="cabecalho">
+
+            <!--=====LOGIN E CADASTRO=====-->
+
+            <div class="topo">
+                <p>Comece aqui:</p>
+                <ul class="lista">
+                    <li id="login">Login</li>
+                    <li id="cadastro">Cadastrar</li>
+                </ul>
+            </div>
+
+            <!--=======JQUERY (REQUISIÇÃO - LOGIN E CADASTRO)======-->
+            <script>
+
+
+                $(document).ready(function (){
+                    let addCadastro = $('#cadastro');
+                    let addLogin = $('#login');
+
+                    addCadastro.on('click', function(){
+                        window.location.href = ('php/cadastrar_users.php');
+                    });
+
+                    addLogin.on('click', function(){
+                        window.location.href = ('login.html');
+                    });
+
+                });
+
+
+            </script>
+
+
+            <!--========LOGO=======-->
+
+            <div id="logo_titulo">
+                <img 
+                id="logo" 
+                src="assets/img/logo.png"            
+                >
+                <h1>Task&XNEO</h1>
+            </div>
+            
+        </header>
+
+
+
+        <section id="centro">
+            
+
+            <div class="container">       
+                <p class="text">Aqui você pode <br>gerenciar <br>seus compromissos <br>com precisão!</p>
+                <div class="elemento"></div>
+            </div>
+
+            <div>
+                <div id="quad_opacity"></div>
+
+                <img id="ze" src="assets/img/ze.png" alt="">
+            </div>
+
+        </section>
+
+        <footer id="rodape"></footer>
+
+    </section>
+    
+</body>
+</html>
