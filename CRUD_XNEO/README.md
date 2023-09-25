@@ -1,9 +1,5 @@
 ### Projeto de Gerenciamento de Tarefas (CRUD) em PHP e jQuery
 
-<div>
-  <a href="https://github.com/Projects_Back-End/CRUD_XNEO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos22-2&layout=compact"/>  
-</div>
 
 Este é um projeto de aplicação web simples desenvolvido em PHP e jQuery, projetado para simplificar o gerenciamento de tarefas e compromissos. Com este sistema, os usuários podem realizar as seguintes ações:
 Funcionalidades Principais
