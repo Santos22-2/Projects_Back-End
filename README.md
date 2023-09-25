@@ -1,3 +1,9 @@
+## Tecnologias Atuais:
+<div>
+  <a href="https://github.com/Projects_Back-End/CRUD_XNEO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos22-2&layout=compact"/>  
+</div>
+
 ## Quem sou eu_:
 ### Engenheiro de Dados | Desenvolvedor Back_End
 Meu nome é Alan Santos, tenho 30 anos, alagoano e faço Análise e Desenvolvimento de Sistemas.
